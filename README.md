@@ -1,9 +1,11 @@
 # CMI - Detect Behavior with Sensor Data 
+
+![Image](https://github.com/Ishita95-harvad/CMI---Detect-Behavior-with-Sensor-Data/blob/main/header%20(16).png)
+
 Predicting Body Focused Repetitive Behaviors from a Wrist-Worn Device
 
 Here's a README file for your project, CMI - Detect Behavior with Sensor Data, which focuses on predicting body-focused repetitive behaviors (BFRBs) using data from a wrist-worn device.
 
-![Image](https://github.com/Ishita95-harvad/CMI---Detect-Behavior-with-Sensor-Data/blob/main/header%20(16).png)
 
 ## Overview
 CMI is a machine learning-based system designed to predict **Body-Focused Repetitive Behaviors (BFRBs)** using sensor data from a wrist-worn device. By analyzing movement patterns and physiological signals, the model identifies signs of BFRBs and helps users gain insights into their behavioral tendencies.
@@ -21,9 +23,9 @@ To set up the environment, clone the repository and install the dependencies:
 git clone https://github.com/your-repo/CMI-Detect-Behavior.git
 cd CMI-Detect-Behavior
 pip install -r requirements.txt
-
+````
 
-Usage
+#### Usage
 - Collect sensor data using the wrist-worn device.
 - Preprocess the data and format it for analysis.
 - Run the prediction model:
